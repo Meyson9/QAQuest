@@ -345,6 +345,7 @@ body{
   position: fixed;
   right: 130px;
   top: 207px;   
+  z-index: 9999;
 }
 
 
