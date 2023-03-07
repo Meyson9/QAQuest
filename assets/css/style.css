@@ -795,6 +795,9 @@ height: 69px; /* Уменьшаем высоту внутреннего круг
     width: 100%;
   }
 }
+.burger-menu{
+  z-index: 99999;
+}
 .burger-menu_button {
   display: none;
   position: fixed;
